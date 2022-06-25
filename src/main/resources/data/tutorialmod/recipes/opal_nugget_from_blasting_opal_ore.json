@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "opal_nugget",
+  "ingredient": "tutorialmod:opal_ore"
+}

@@ -1,0 +1,15 @@
+{
+  "item.tutorialmod.ruby": "Ruby",
+  "item.tutorialmod.raw_ruby": "Raw Ruby",
+  "item.tutorialmod.opal": "Opal",
+  "item.tutorialmod.opal_nugget": "Opal Nugget",
+
+  "block.tutorialmod.ruby_block": "Block of Ruby",
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.tutorialmod.opal_block": "Block of Opal",
+  "block.tutorialmod.opal_ore": "Opal Ore",
+
+  "itemGroup.blocktab": "Blocks",
+  "itemGroup.gemtab": "Gems"
+}

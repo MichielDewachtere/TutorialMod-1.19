@@ -1,0 +1,14 @@
+{
+  "type":"minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraf:item",
+          "name": "tutorial.opal_block"
+        }
+      ]
+    }
+  ]
+}
