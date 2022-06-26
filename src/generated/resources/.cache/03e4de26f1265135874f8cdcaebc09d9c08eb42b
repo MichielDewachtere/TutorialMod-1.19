@@ -1,0 +1,6 @@
+// 1.19	2022-06-27T01:30:55.099491	Tags for minecraft:item
+9bbb5f67f0314c12f896228502e2e27db9219005 data/forge/tags/items/gems.json
+bd8290451d54b485d153639458f2f8b18e0c24c4 data/forge/tags/items/nuggets.json
+3f8f60549e946b6826e1d2bfffb3ab2493bc5e18 data/forge/tags/items/raw_materials.json
+e3869bdfb849d112a7a45ec93fd7a6c260841076 data/tutorialmod/tags/items/opal_ores.json
+22a282e321ac555407b602ba4b81e5516f67acc2 data/tutorialmod/tags/items/ruby_ores.json

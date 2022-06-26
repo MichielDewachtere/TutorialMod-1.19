@@ -1,0 +1,7 @@
+// 1.19	2022-06-27T01:03:59.2879357	Tags for minecraft:block
+f329e12db293edbaf64cafcfea11d7ae5d12f39a data/forge/tags/blocks/ores.json
+79523d05063008e8969bec432bdbbb32fca4fc2d data/forge/tags/blocks/storage_blocks.json
+ba2c44efc4c311ba6c7fff66a65467b60be868c5 data/minecraft/tags/blocks/mineable/pickaxe.json
+ba2c44efc4c311ba6c7fff66a65467b60be868c5 data/minecraft/tags/blocks/needs_iron_tool.json
+e3869bdfb849d112a7a45ec93fd7a6c260841076 data/tutorialmod/tags/blocks/opal_ores.json
+22a282e321ac555407b602ba4b81e5516f67acc2 data/tutorialmod/tags/blocks/ruby_ores.json
